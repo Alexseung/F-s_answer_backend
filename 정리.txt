@@ -1,0 +1,6 @@
+npm init -y
+npm install openai
+npm i express cors dotenv
+    express: 서버 쉽게 만드는거 도와주는 툴
+    cors: 프론트엔드와 소통시 에러 해결 도와줌
+    dotenv: 환경설정 키 저장하는 곳
